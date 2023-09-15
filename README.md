@@ -48,6 +48,8 @@ gross compared to standalone movies. The data suggests that, on average, movies 
 with a franchise tend to perform substantially better in terms of worldwide box office 
 earnings compared to standalone movies.
 
+![image](https://github.com/karekocyn/Microsoftproject/assets/141914538/7a21f5d6-ccc2-4779-b8fc-5ff7c3396fa7)
+
 2. Identifying most common movie language
 The chart below illustrates the distribution of movies across various languages. English, 
 represented by the tallest bar, is by far the most common language in which movies are 
@@ -56,13 +58,22 @@ associated with them. The data clearly illustrates that English dominates the fi
 serving as the primary language for a large majority of movies. The substantial number of
 English-language movies suggests the global influence and reach of English-speaking cinema.
 
-4. Investigating the relationship between production budget and gross earnings
+![image](https://github.com/karekocyn/Microsoftproject/assets/141914538/15420eac-94e8-471c-9fe0-75efba4bef80)
+
+
+3. Investigating the relationship between production budget and gross earnings
 These plots illustrate the relationship between production budgets and movie earnings, both 
 domestically and worldwide. In both plots, there is a concentration of movies with low 
 budgets and correspondingly lower gross earnings. However, movies with medium or higher 
 budgets are spread out more evenly across different levels of gross earnings. Some highbudget movies have achieved high gross earnings, while others have only reached average or 
 lower gross figures. The data suggests that a significant portion of movies operates within 
 limited budgets, and their earnings tend to align with their budget levels.
+
+![image](https://github.com/karekocyn/Microsoftproject/assets/141914538/f4fe32bd-9951-4c7e-890f-7deea254ff62)
+
+![image](https://github.com/karekocyn/Microsoftproject/assets/141914538/3a74cf5b-bcbf-4a8c-9e4f-575e34c55b2f)
+
+
 
 Conclusion
 
